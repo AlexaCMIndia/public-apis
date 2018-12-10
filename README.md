@@ -340,6 +340,7 @@ API | Description | Auth | HTTPS | CORS |
 | [What's on the menu?](http://nypl.github.io/menus-api/) | NYPL human-transcribed historical menu collection | `apiKey` | No | Unknown |
 | [Yummly](https://developer.yummly.com/) | Find food recipes | `apiKey` | Yes | Unknown |
 | [Zomato](https://developers.zomato.com/api) | Discover restaurants | `apiKey` | Yes | Unknown |
+https://www.programmableweb.com/category/restaurants/api
 
 
 ### Fraud Prevention
